@@ -1,7 +1,7 @@
 /*
- * Grupo        :
- * Alumno       :
- * Numero Exp   :
+ * Grupo        : GDAM Tarde
+ * Alumno       : Antonio Blanco
+ * Numero Exp   : 7250
  * Fecha
  */
 
